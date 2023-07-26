@@ -13,5 +13,8 @@ Aplicação desktop utilizando Compose para exibir o top 250 filmes da API do IM
 - Retrofit
 - Coroutines
 
+## 📜Detalhe de uso
 
+Para que os filmes apareçam é necessário colocar sua APIKey do IMDB no arquivo ApiKey.kt. Ela pode ser adquirida se cadastrando na plataforma da API em: 
 
+https://imdb-api.com/api
