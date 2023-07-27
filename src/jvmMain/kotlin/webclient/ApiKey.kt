@@ -1,3 +1,3 @@
 package webclient
 
-const val IMDB_API_KEY = "your_api_key"
+const val IMDB_API_KEY = "top250.json"
